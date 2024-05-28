@@ -1,5 +1,5 @@
 // TODO: Edit the URL to get only 5 issues of Twitter's Chill repo
-var requestUrl = 'https://api.github.com/repos/twitter/chill/issues?per_page-5';
+var requestUrl = 'https://api.github.com/repos/Chandadhika/issues?per_page=5';
 
 fetch(requestUrl)
   .then(function (response) {
